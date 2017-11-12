@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Layout\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Layout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 48,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 45,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Layout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 45,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endColumn": 43,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Layout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 43,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 194,
+                    "endColumn": 41,
+                    "endOffset": 231
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Layout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 41,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 45,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Layout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 45,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 41,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Layout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 41,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endColumn": 45,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "C:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Layout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 45,
+                        "endOffset": 100
+                    }
+                }
+            }
+        ]
+    }
+]
